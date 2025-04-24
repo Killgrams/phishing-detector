@@ -20,7 +20,7 @@ Install dependencies with:
 
 ```
 pip install -r requirements.txt
-```
+``` 
 
 ## Usage
 Run the dashboard with:
